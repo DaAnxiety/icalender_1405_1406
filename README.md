@@ -16,8 +16,7 @@
 
 اول لینک مستقیم فایل تقویم رو کپی کن:
 
-https://raw.githubusercontent.com/DaAnxiety/icalender_1405_1406/main/calendar.ics
-
+https://github.com/DaAnxiety/icalender_1405_1406/raw/refs/heads/main/Persian_Calendar_1405_1406_Complete_Monthly_22_FINAL.ics
 بعد برو داخل آیفون:
 
 Settings → Apps → Calendar → Calendar Accounts → Add Account → Other → Add Subscribed Calendar
@@ -78,7 +77,7 @@ If you’re using an iPhone, adding this Persian calendar is super easy. You don
 
 First, copy the calendar subscription link:
 
-https://raw.githubusercontent.com/DaAnxiety/icalender_1405_1406/main/calendar.ics
+https://github.com/DaAnxiety/icalender_1405_1406/raw/refs/heads/main/Persian_Calendar_1405_1406_Complete_Monthly_22_FINAL.ics
 
 Then go to:
 
